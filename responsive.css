@@ -55,13 +55,26 @@
 @media (min-width:400px) and (max-width:500px) {
 
     .box {
-        width: 55vw;
+        width: 60vw;
         height: 63vh;
 
     }
     main{
        
         padding-top: 9%;
+       
+    }
+}
+@media (min-width:300px) and (max-width:400px) {
+
+    .box {
+        width: 70vw;
+        height: 60vh;
+
+    }
+    main{
+       
+        padding-top: 10%;
        
     }
 }
