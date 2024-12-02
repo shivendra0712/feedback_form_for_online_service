@@ -78,3 +78,16 @@
        
     }
 }
+@media (min-width:200px) and (max-width:300px) {
+
+    .box {
+        width: 80vw;
+        height: 59vh;
+
+    }
+    main{
+       
+        padding-top: 12%;
+       
+    }
+}
